@@ -1,4 +1,4 @@
-![Pizza_Sales]()
+![Pizza_Sales](https://github.com/manas74/Pizza_Sales_SQL_Project/blob/main/SQL_pizza_sales_project.jpg)
 ### *Problem Statement:*
 The goal of this analysis is to examine pizza order data to uncover trends, assess performance across various pizza categories, and derive insights that can assist in strategic decision-making and marketing efforts.
 
