@@ -1,3 +1,4 @@
+![Pizza_Sales]()
 ### *Problem Statement:*
 The goal of this analysis is to examine pizza order data to uncover trends, assess performance across various pizza categories, and derive insights that can assist in strategic decision-making and marketing efforts.
 
